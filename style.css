@@ -166,7 +166,7 @@ body{
 .header-content .btn{
     display: flex;
     align-items: center;
-    padding:0px 10px;
+    padding:4px 10px;
     border-radius: 8px;
     background:var(--gradient); 
     margin-left: 1rem;
